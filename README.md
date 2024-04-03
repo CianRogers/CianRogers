@@ -6,6 +6,8 @@ I'm a Biochemistry student from the University of Surrey with a passion for expl
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cianrogers" alt="cianrogers" /></a> </p>
 
+I would be keen to hear from employers about opportunities in the software and data industries and also from anyone who would like to collaborate!
+
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/cian-rogers-2414202b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cian rogers" height="30" width="40" /></a>
