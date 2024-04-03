@@ -7,6 +7,7 @@ I'm a Biochemistry student from the University of Surrey with a passion for expl
 # 🖥️ Experience Data science Bootcamp | HyperionDev | 2023 - March 2024
 >🐍 Python
 >String handling, variable management, higher order functions, iteration, conditionals, lists and dictionaries, defensive programming, testing and >debugging, file handling, object-oriented programming, inheritance and special methods.
+
 >📊 SQL
 >Creating tables, adding data, updating data, deleting data, retrieving data, aggregate functions, using SQLite, querying, aliasing, joining and order of >execution.
 
