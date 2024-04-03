@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cianrogers&label=Profile%20views&color=0e75b6&style=flat" alt="cianrogers" /> </p>
-<h1 align="center">Hi ![b9371273ae94a946e92074d1b9696680-1](https://github.com/CianRogers/CianRogers/assets/155725024/21381af5-2a20-4499-bad8-ac50233d7133), I'm Cian Rogers !</h1>
+<h1 align="center">Hi 👋 I'm Cian Rogers !</h1>
 <h3 align="left">An Aspiring Software Engineer / Data Scientist</h3>
 
 I'm a Biochemistry student from the University of Surrey with a passion for exploring the intersection of science and technology. My academic journeyhas exposed me to various programming languages, from Python to R, and even delving into various analytical concepts. Currently, I'm immersing myself in the world of software engineering and data science through a dynamic bootcamp with HyperionDev, where I'm refining my Python skills and delving into essential computer science concepts. Join me on this exciting journey as I continue to expand my digital portfolio and contribute to the ever-evolving landscape of technology on GitHub.
