@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cianrogers&label=Profile%20views&color=0e75b6&style=flat" alt="cianrogers" /> </p>
 <h1 align="center">Hi 👋, I'm Cian Rogers !</h1>
 <h3 align="left">An Aspiring Software Engineer / Data Scientist</h3>
 
@@ -9,7 +10,7 @@ I'm a Biochemistry student from the University of Surrey with a passion for expl
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cian rogers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cian rogers" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/cian-rogers-2414202b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cian rogers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
