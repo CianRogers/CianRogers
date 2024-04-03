@@ -1,3 +1,5 @@
+![b9371273ae94a946e92074d1b9696680-1](https://github.com/CianRogers/CianRogers/assets/155725024/00efcc9f-0063-4b9e-8874-aa1af338a0c5)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cianrogers&label=Profile%20views&color=0e75b6&style=flat" alt="cianrogers" /> </p>
 <h1 align="center">Hi 👋 I'm Cian Rogers !</h1>
 <h3 align="left">An Aspiring Software Engineer / Data Scientist</h3>
