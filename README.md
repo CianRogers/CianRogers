@@ -4,6 +4,13 @@
 
 I'm a Biochemistry student from the University of Surrey with a passion for exploring the intersection of science and technology. My academic journeyhas exposed me to various programming languages, from Python to R, and even delving into various analytical concepts. Currently, I'm immersing myself in >the world of software engineering and data science through a dynamic bootcamp with HyperionDev, where I'm refining my Python skills and delving into essential computer science concepts. Join me on this exciting journey as I continue to expand my digital portfolio and contribute to the ever-evolving landscape of technology on GitHub
 
+# 🖥️ Experience Data science Bootcamp | HyperionDev | 2023 - March 2024
+>🐍 Python
+>String handling, variable management, higher order functions, iteration, conditionals, lists and dictionaries, defensive programming, testing and >debugging, file handling, object-oriented programming, inheritance and special methods.
+>📊 SQL
+>Creating tables, adding data, updating data, deleting data, retrieving data, aggregate functions, using SQLite, querying, aliasing, joining and order of >execution.
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cianrogers" alt="cianrogers" /></a> </p>
 
 I would be keen to hear from employers about opportunities in the software and data industries and also from anyone who would like to collaborate!
